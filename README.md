@@ -1,3 +1,3 @@
-Ravi Benkal Resume
+## Ravindra Benkal
 
 This is Ravi Benkal Resume
